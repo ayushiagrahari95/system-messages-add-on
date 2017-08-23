@@ -1,0 +1,10 @@
+org/redpill/alfresco/repo/systemmessages/webscript/SystemMessagesGet.class
+eisenvault/system_messages_repo/demoamp/Demo.class
+org/redpill/alfresco/repo/systemmessages/model/SystemMessagesModel.class
+org/redpill/alfresco/repo/systemmessages/service/SystemMessagesService.class
+org/redpill/alfresco/repo/systemmessages/bean/SystemNotificationBean.class
+org/redpill/alfresco/systemmessages/webscript/DeleteNode.class
+org/redpill/alfresco/repo/systemmessages/service/SystemMessagesServiceImpl.class
+org/redpill/alfresco/repo/systemmessages/webscript/GetDataList.class
+eisenvault/system_messages_repo/demoamp/HelloWorldWebScript.class
+eisenvault/system_messages_repo/demoamp/DemoComponent.class
